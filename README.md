@@ -18,7 +18,7 @@ This module fixes these problems by adding the native MiUI System Launcher into 
 
 ## Instructions
 
-Download the **Source code (zip)** from the [Releases](https://github.com/Hamza417/SystemLauncher/releases) section and install as a Magisk Module.
+Download the **ZIP** from the [Releases](https://github.com/Hamza417/SystemLauncher/releases) section and install as a Magisk Module.
 
 <br>
 
