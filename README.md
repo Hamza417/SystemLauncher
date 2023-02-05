@@ -28,6 +28,8 @@ This module fixes these problems by adding the native MiUI System Launcher into 
 Download the **ZIP** from the [Releases](https://github.com/Hamza417/SystemLauncher/releases) 
 section and install as a Magisk Module.
 
+MiUI 14 is not supported at the moment.
+
 <br>
 
 ## Notes
