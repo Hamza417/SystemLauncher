@@ -29,4 +29,4 @@ This module doesn't add any extra modifications to the system and after installi
 it the launcher updates can be installed just as regular apps.
 
 ## Issues
-Found a problem? creare an issue [here](https://github.com/Hamza417/SystemLauncher/here) 
+Found a problem? create an issue [here](https://github.com/Hamza417/SystemLauncher/here) 
